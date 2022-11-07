@@ -14,7 +14,7 @@ spring:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:8761/eureka
+      defaultZone: http://192.168.1.131:8761/eureka
   instance:
     # instance-id: instancia0
     # instance-id: instancia1
